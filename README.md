@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wrahool007
+- 👋 Hi, I’m @rahul07
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#, Java, Python, HTML, CSS, PHP
+- 🌱 I’m have skilled of C#, Java, Python, HTML, CSS, PHP
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
